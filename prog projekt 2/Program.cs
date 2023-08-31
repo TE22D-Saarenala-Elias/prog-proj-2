@@ -17,4 +17,4 @@ Console.WriteLine($"tycker du om mat?");
 
  }
 
-Console.ReadLine();
+Console.ReadLine();//hej
