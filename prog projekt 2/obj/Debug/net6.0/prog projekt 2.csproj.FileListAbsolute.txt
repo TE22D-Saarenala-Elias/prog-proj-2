@@ -1,0 +1,15 @@
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\bin\Debug\net6.0\prog projekt 2.exe
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\bin\Debug\net6.0\prog projekt 2.deps.json
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\bin\Debug\net6.0\prog projekt 2.runtimeconfig.json
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\bin\Debug\net6.0\prog projekt 2.dll
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\bin\Debug\net6.0\prog projekt 2.pdb
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.csproj.AssemblyReference.cache
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.AssemblyInfoInputs.cache
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.AssemblyInfo.cs
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.csproj.CoreCompileInputs.cache
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.dll
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\refint\prog projekt 2.dll
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.pdb
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\prog projekt 2.genruntimeconfig.cache
+c:\Users\elias.saarenala\programmering med Micke\prog proj 2\prog projekt 2\obj\Debug\net6.0\ref\prog projekt 2.dll
